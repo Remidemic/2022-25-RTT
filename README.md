@@ -1,4 +1,4 @@
-# please use github prework repository for index web page. pages are not linking correctly in here
+# please use Github_PreWork repository for index web page. pages are not linking correctly in here
 # issue : pages & css inside folders dont link properly between folders
 
  2022-25-RTT
